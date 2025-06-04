@@ -1,6 +1,8 @@
 # auto-nanogallery2
 Automatically generate thumbnails, add image information, slugify files, and create gallery.json.
 
+***BE CAREFUL.***  It will **overwrite files** with **NO WARNING**.
+
 # Donations?
 
 Did I save you a whole bunch of time?  Time is $$ and I am poor.  Please contribute if you are able https://ko-fi.com/s/364cd6b5af

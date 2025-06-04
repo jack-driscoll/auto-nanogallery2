@@ -1,5 +1,5 @@
 # auto-nanogallery2
-Automatically generate thumbnails, add image information, slugify files, and create gallery.json.
+Automatically generate thumbnails, add image information, slugify files, and create gallery.json.  Say "Thanks, Lupa!".
 
 ***BE CAREFUL.***  It will **overwrite files** with **NO WARNING**.
 
